@@ -1,6 +1,6 @@
 # Breaking Bad Cast
 
-My first Golang try. I tried to do same cast flow like "Breaking Bad Series" does by using Go (Golang). The element symbols are indicated in the cast name like below.
+My first Golang try. By using Go (Golang), I tried to do same cast flow like "Breaking Bad Series" does. The element symbols are indicated in the cast name like below.
 
 -- Cast --
 
